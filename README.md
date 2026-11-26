@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-A frontend development practice project showcasing excerpts from classic public domain books. This project was developed as part of my frontend development coursework to practice HTML and CSS fundamentals.
+A frontend development practice project showcasing excerpts from classic public domain books. This project was completed as part of a frontend development course on Coursera to strengthen my understanding of HTML and CSS fundamentals, webpage structure, and styling.
 
 ## Technologies Used
 
